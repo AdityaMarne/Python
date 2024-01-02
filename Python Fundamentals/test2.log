@@ -1,0 +1,23 @@
+2024-01-02 16:32:49,124 This is my info log
+2024-01-02 16:32:49,125 This is my warning log
+2024-01-02 16:32:49,126 This is my error log
+2024-01-02 16:34:37,163 This is my info log
+2024-01-02 16:34:37,164 This is my warning log
+2024-01-02 16:34:37,165 This is my error log
+2024-01-02 16:35:06,235 This is my info log
+2024-01-02 16:35:06,236 This is my warning log
+2024-01-02 16:40:52,544 This is a start of code and I am try to enter 4 & 5
+2024-01-02 16:40:52,546 Executed Successfully
+2024-01-02 16:43:08,959 This is a start of code and I am try to enter 4 & 5
+2024-01-02 16:43:08,959 Executed Successfully
+2024-01-02 16:43:23,090 This is a start of code and I am try to enter 4 & 0
+2024-01-02 16:43:23,090 Error has happend
+2024-01-02 16:43:23,092 Exception occureddivision by zero
+Traceback (most recent call last):
+  File "C:\Users\adity\AppData\Local\Temp\ipykernel_23284\3613590957.py", line 5, in divByZero
+    div = a/b
+ZeroDivisionError: division by zero
+2024-01-02 16:51:10,006 Please enter a postistive value 10
+2024-01-02 16:51:10,006 Code get executed successfully
+2024-01-02 16:51:28,690 Please enter a postistive value -1
+2024-01-02 16:52:28,874 Please enter a postistive value -5
