@@ -1,23 +1,34 @@
-2024-01-02 16:32:49,124 This is my info log
-2024-01-02 16:32:49,125 This is my warning log
-2024-01-02 16:32:49,126 This is my error log
-2024-01-02 16:34:37,163 This is my info log
-2024-01-02 16:34:37,164 This is my warning log
-2024-01-02 16:34:37,165 This is my error log
-2024-01-02 16:35:06,235 This is my info log
-2024-01-02 16:35:06,236 This is my warning log
-2024-01-02 16:40:52,544 This is a start of code and I am try to enter 4 & 5
-2024-01-02 16:40:52,546 Executed Successfully
-2024-01-02 16:43:08,959 This is a start of code and I am try to enter 4 & 5
-2024-01-02 16:43:08,959 Executed Successfully
-2024-01-02 16:43:23,090 This is a start of code and I am try to enter 4 & 0
-2024-01-02 16:43:23,090 Error has happend
-2024-01-02 16:43:23,092 Exception occureddivision by zero
-Traceback (most recent call last):
-  File "C:\Users\adity\AppData\Local\Temp\ipykernel_23284\3613590957.py", line 5, in divByZero
-    div = a/b
-ZeroDivisionError: division by zero
-2024-01-02 16:51:10,006 Please enter a postistive value 10
-2024-01-02 16:51:10,006 Code get executed successfully
-2024-01-02 16:51:28,690 Please enter a postistive value -1
-2024-01-02 16:52:28,874 Please enter a postistive value -5
+2024-01-11 21:21:32,390 INFO After append operation on list [1]
+2024-01-11 21:21:32,773 INFO After clear operation on list []
+2024-01-11 21:21:33,134 INFO After append operation on list [1]
+2024-01-11 21:21:33,837 INFO After append operation on list [1, [1, 2, 3]]
+2024-01-11 21:21:34,366 INFO After append operation on list [1, [1, 2, 3], {1, 2, 3}]
+2024-01-11 21:21:34,896 INFO After append operation on list [1, [1, 2, 3], {1, 2, 3}, {1: 'a', 2: 'b'}]
+2024-01-11 21:21:35,725 INFO After copy operation on list [1, [1, 2, 3], {1, 2, 3}, {1: 'a', 2: 'b'}]
+2024-01-11 21:21:37,708 INFO After extend operation on list [1, [1, 2, 3], {1, 2, 3}, {1: 'a', 2: 'b'}, 'a', 'd', 'i', 't', 'y', 'a']
+2024-01-11 21:21:38,653 INFO After index operation on list 0
+2024-01-11 21:22:08,199 INFO After insert operation on list [1, 1, [1, 2, 3], {1, 2, 3}, {1: 'a', 2: 'b'}, 'a', 'd', 'i', 't', 'y', 'a']
+2024-01-11 21:22:27,295 INFO After pop operation on list [1, [1, 2, 3], {1, 2, 3}, {1: 'a', 2: 'b'}, 'a', 'd', 'i', 't', 'y', 'a']
+2024-01-11 21:22:38,902 INFO After reverse operation on list ['a', 'y', 't', 'i', 'd', 'a', {1: 'a', 2: 'b'}, {1, 2, 3}, [1, 2, 3], 1]
+2024-01-11 21:29:19,357 INFO After append operation on list [1]
+2024-01-11 21:29:19,709 INFO After clear operation on list []
+2024-01-11 21:29:20,029 INFO After append operation on list [1]
+2024-01-11 21:29:20,301 INFO After append operation on list [1, [1, 2, 3]]
+2024-01-11 21:29:20,639 INFO After append operation on list [1, [1, 2, 3], {1, 2, 3}]
+2024-01-11 21:29:20,973 INFO After append operation on list [1, [1, 2, 3], {1, 2, 3}, {1: 'a', 2: 'b'}]
+2024-01-11 21:29:21,820 INFO After copy operation on list [1, [1, 2, 3], {1, 2, 3}, {1: 'a', 2: 'b'}]
+2024-01-11 21:29:25,157 INFO After extend operation on list [1, [1, 2, 3], {1, 2, 3}, {1: 'a', 2: 'b'}, 'a', 'd', 'i', 't', 'y', 'a']
+2024-01-11 21:29:25,493 INFO After index operation on list 0
+2024-01-11 21:29:26,644 INFO After insert operation on list [1, 1, [1, 2, 3], {1, 2, 3}, {1: 'a', 2: 'b'}, 'a', 'd', 'i', 't', 'y', 'a']
+2024-01-11 21:29:27,014 INFO After pop operation on list [1, [1, 2, 3], {1, 2, 3}, {1: 'a', 2: 'b'}, 'a', 'd', 'i', 't', 'y', 'a']
+2024-01-11 21:29:27,652 INFO After reverse operation on list ['a', 'y', 't', 'i', 'd', 'a', {1: 'a', 2: 'b'}, {1, 2, 3}, [1, 2, 3], 1]
+2024-01-11 21:41:20,883 DEBUG diff parser start
+2024-01-11 21:41:20,886 DEBUG line_lengths old: 1; new: 1
+2024-01-11 21:41:20,887 DEBUG -> code[replace] old[1:1] new[1:1]
+2024-01-11 21:41:20,889 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2024-01-11 21:41:20,890 DEBUG diff parser end
+2024-01-11 21:48:41,564 DEBUG diff parser start
+2024-01-11 21:48:41,564 DEBUG line_lengths old: 1; new: 1
+2024-01-11 21:48:41,565 DEBUG -> code[replace] old[1:1] new[1:1]
+2024-01-11 21:48:41,565 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2024-01-11 21:48:41,566 DEBUG diff parser end
