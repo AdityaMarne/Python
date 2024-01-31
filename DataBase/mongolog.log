@@ -1,0 +1,149 @@
+2024-01-29 16:43:12,170INFODatabase connection successfully
+2024-01-29 16:43:12,423DEBUGPeer did not staple an OCSP response
+2024-01-29 16:43:12,424DEBUGPeer did not staple an OCSP response
+2024-01-29 16:43:12,424DEBUGRequesting OCSP data
+2024-01-29 16:43:12,424DEBUGRequesting OCSP data
+2024-01-29 16:43:12,425DEBUGTrying http://r3.o.lencr.org
+2024-01-29 16:43:12,425DEBUGTrying http://r3.o.lencr.org
+2024-01-29 16:43:12,439DEBUGStarting new HTTP connection (1): r3.o.lencr.org:80
+2024-01-29 16:43:12,439DEBUGStarting new HTTP connection (1): r3.o.lencr.org:80
+2024-01-29 16:43:12,443DEBUGPeer did not staple an OCSP response
+2024-01-29 16:43:12,443DEBUGRequesting OCSP data
+2024-01-29 16:43:12,443DEBUGTrying http://r3.o.lencr.org
+2024-01-29 16:43:12,447DEBUGStarting new HTTP connection (1): r3.o.lencr.org:80
+2024-01-29 16:43:12,893DEBUGhttp://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2024-01-29 16:43:12,896DEBUGhttp://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2024-01-29 16:43:12,899DEBUGhttp://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2024-01-29 16:43:12,905DEBUGOCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2024-01-29 16:43:12,906DEBUGOCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2024-01-29 16:43:12,909DEBUGOCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2024-01-29 16:43:12,909DEBUGVerifying response
+2024-01-29 16:43:12,910DEBUGVerifying response
+2024-01-29 16:43:12,911DEBUGVerifying response
+2024-01-29 16:43:12,912DEBUGResponder is issuer
+2024-01-29 16:43:12,913DEBUGResponder is issuer
+2024-01-29 16:43:12,915DEBUGResponder is issuer
+2024-01-29 16:43:12,921DEBUGCaching OCSP response.
+2024-01-29 16:43:12,922DEBUGCaching OCSP response.
+2024-01-29 16:43:12,923DEBUGOCSP cert status: <OCSPCertStatus.GOOD: 0>
+2024-01-29 16:43:12,924DEBUGCaching OCSP response.
+2024-01-29 16:43:12,925DEBUGOCSP cert status: <OCSPCertStatus.GOOD: 0>
+2024-01-29 16:43:12,927DEBUGOCSP cert status: <OCSPCertStatus.GOOD: 0>
+2024-01-29 16:43:13,036DEBUGPeer did not staple an OCSP response
+2024-01-29 16:43:13,037DEBUGRequesting OCSP data
+2024-01-29 16:43:13,038DEBUGTrying http://r3.o.lencr.org
+2024-01-29 16:43:13,040DEBUGUsing cached OCSP response.
+2024-01-29 16:43:13,040DEBUGOCSP cert status: <OCSPCertStatus.GOOD: 0>
+2024-01-29 16:43:13,048DEBUGPeer did not staple an OCSP response
+2024-01-29 16:43:13,048DEBUGRequesting OCSP data
+2024-01-29 16:43:13,051DEBUGTrying http://r3.o.lencr.org
+2024-01-29 16:43:13,053DEBUGUsing cached OCSP response.
+2024-01-29 16:43:13,054DEBUGOCSP cert status: <OCSPCertStatus.GOOD: 0>
+2024-01-29 16:43:13,061DEBUGPeer did not staple an OCSP response
+2024-01-29 16:43:13,062DEBUGRequesting OCSP data
+2024-01-29 16:43:13,062DEBUGTrying http://r3.o.lencr.org
+2024-01-29 16:43:13,063DEBUGUsing cached OCSP response.
+2024-01-29 16:43:13,064DEBUGOCSP cert status: <OCSPCertStatus.GOOD: 0>
+2024-01-29 16:43:24,587DEBUGPeer did not staple an OCSP response
+2024-01-29 16:43:24,588DEBUGRequesting OCSP data
+2024-01-29 16:43:24,588DEBUGTrying http://r3.o.lencr.org
+2024-01-29 16:43:24,588DEBUGUsing cached OCSP response.
+2024-01-29 16:43:24,590DEBUGOCSP cert status: <OCSPCertStatus.GOOD: 0>
+2024-01-29 16:43:24,678INFOCollection is created sussfully
+2024-01-29 16:45:33,762DEBUGdiff parser start
+2024-01-29 16:45:33,764DEBUGline_lengths old: 1; new: 2
+2024-01-29 16:45:33,765DEBUG-> code[replace] old[1:1] new[1:2]
+2024-01-29 16:45:33,767DEBUGparse_part from 1 to 2 (to 1 in part parser)
+2024-01-29 16:45:33,768DEBUGdiff parser end
+2024-01-29 16:45:33,893DEBUGpickle loaded: C:\Users\adity\anaconda3\lib\site-packages\pymongo\collection.py
+2024-01-29 16:45:33,984DEBUGpickle loaded: C:\Users\adity\anaconda3\lib\site-packages\pymongo\__init__.py
+2024-01-29 16:45:34,088DEBUGpickle loaded: C:\Users\adity\anaconda3\lib\site-packages\pymongo\common.py
+2024-01-29 16:45:35,693DEBUGdiff parser start
+2024-01-29 16:45:35,695DEBUGline_lengths old: 2; new: 2
+2024-01-29 16:45:35,695DEBUG-> code[equal] old[1:1] new[1:1]
+2024-01-29 16:45:35,698DEBUGparse_part from 1 to 2 (to 1 in part parser)
+2024-01-29 16:45:35,699DEBUG-> code[replace] old[2:2] new[2:2]
+2024-01-29 16:45:35,700DEBUGdiff parser end
+2024-01-29 16:45:55,813INFOData get inserted sussfully
+2024-01-29 16:49:54,095ERRORError happend at data insertion.
+2024-01-29 16:49:54,095ERRORException occuredbatch op errors occurred, full error: {'writeErrors': [{'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: practice_mongo.carbon_nanotubes_collection index: _id_ dup key: { _id: ObjectId('65b788e25b417cb3eb4a4d73') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('65b788e25b417cb3eb4a4d73')}, 'op': {'Chiral indice n': 2, 'Chiral indice m': 1, 'Initial atomic coordinate u': '0,679005', 'Initial atomic coordinate v': '0,701318', 'Initial atomic coordinate w': '0,017033', "Calculated atomic coordinates u'": '0,721039', "Calculated atomic coordinates v'": '0,730232', "Calculated atomic coordinates w'": '0,017014', '_id': ObjectId('65b788e25b417cb3eb4a4d73')}}], 'writeConcernErrors': [], 'nInserted': 0, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+Traceback (most recent call last):
+  File "C:\Users\adity\AppData\Local\Temp\ipykernel_13100\15965555.py", line 2, in <module>
+    coll2.insert_many(data)
+  File "C:\Users\adity\anaconda3\lib\site-packages\pymongo\_csot.py", line 107, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\adity\anaconda3\lib\site-packages\pymongo\collection.py", line 755, in insert_many
+    blk.execute(write_concern, session=session)
+  File "C:\Users\adity\anaconda3\lib\site-packages\pymongo\bulk.py", line 576, in execute
+    return self.execute_command(generator, write_concern, session)
+  File "C:\Users\adity\anaconda3\lib\site-packages\pymongo\bulk.py", line 446, in execute_command
+    _raise_bulk_write_error(full_result)
+  File "C:\Users\adity\anaconda3\lib\site-packages\pymongo\bulk.py", line 157, in _raise_bulk_write_error
+    raise BulkWriteError(full_result)
+pymongo.errors.BulkWriteError: batch op errors occurred, full error: {'writeErrors': [{'index': 0, 'code': 11000, 'errmsg': "E11000 duplicate key error collection: practice_mongo.carbon_nanotubes_collection index: _id_ dup key: { _id: ObjectId('65b788e25b417cb3eb4a4d73') }", 'keyPattern': {'_id': 1}, 'keyValue': {'_id': ObjectId('65b788e25b417cb3eb4a4d73')}, 'op': {'Chiral indice n': 2, 'Chiral indice m': 1, 'Initial atomic coordinate u': '0,679005', 'Initial atomic coordinate v': '0,701318', 'Initial atomic coordinate w': '0,017033', "Calculated atomic coordinates u'": '0,721039', "Calculated atomic coordinates v'": '0,730232', "Calculated atomic coordinates w'": '0,017014', '_id': ObjectId('65b788e25b417cb3eb4a4d73')}}], 'writeConcernErrors': [], 'nInserted': 0, 'nUpserted': 0, 'nMatched': 0, 'nModified': 0, 'nRemoved': 0, 'upserted': []}
+2024-01-30 16:32:13,404INFODatabase connection successfully
+2024-01-30 16:32:14,166DEBUGPeer did not staple an OCSP response
+2024-01-30 16:32:14,167DEBUGRequesting OCSP data
+2024-01-30 16:32:14,167DEBUGTrying http://r3.o.lencr.org
+2024-01-30 16:32:14,183DEBUGStarting new HTTP connection (1): r3.o.lencr.org:80
+2024-01-30 16:32:14,235DEBUGPeer did not staple an OCSP response
+2024-01-30 16:32:14,236DEBUGRequesting OCSP data
+2024-01-30 16:32:14,236DEBUGTrying http://r3.o.lencr.org
+2024-01-30 16:32:14,245DEBUGStarting new HTTP connection (1): r3.o.lencr.org:80
+2024-01-30 16:32:14,249DEBUGPeer did not staple an OCSP response
+2024-01-30 16:32:14,250DEBUGRequesting OCSP data
+2024-01-30 16:32:14,250DEBUGTrying http://r3.o.lencr.org
+2024-01-30 16:32:14,256DEBUGStarting new HTTP connection (1): r3.o.lencr.org:80
+2024-01-30 16:32:14,643DEBUGhttp://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2024-01-30 16:32:14,645DEBUGhttp://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2024-01-30 16:32:14,647DEBUGhttp://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2024-01-30 16:32:14,651DEBUGOCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2024-01-30 16:32:14,654DEBUGOCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2024-01-30 16:32:14,656DEBUGOCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2024-01-30 16:32:14,657DEBUGVerifying response
+2024-01-30 16:32:14,658DEBUGVerifying response
+2024-01-30 16:32:14,659DEBUGVerifying response
+2024-01-30 16:32:14,660DEBUGResponder is issuer
+2024-01-30 16:32:14,661DEBUGResponder is issuer
+2024-01-30 16:32:14,662DEBUGResponder is issuer
+2024-01-30 16:32:14,669DEBUGCaching OCSP response.
+2024-01-30 16:32:14,669DEBUGOCSP cert status: <OCSPCertStatus.GOOD: 0>
+2024-01-30 16:32:14,671DEBUGCaching OCSP response.
+2024-01-30 16:32:14,672DEBUGOCSP cert status: <OCSPCertStatus.GOOD: 0>
+2024-01-30 16:32:14,674DEBUGCaching OCSP response.
+2024-01-30 16:32:14,675DEBUGOCSP cert status: <OCSPCertStatus.GOOD: 0>
+2024-01-30 16:32:14,829DEBUGPeer did not staple an OCSP response
+2024-01-30 16:32:14,830DEBUGRequesting OCSP data
+2024-01-30 16:32:14,831DEBUGTrying http://r3.o.lencr.org
+2024-01-30 16:32:14,833DEBUGUsing cached OCSP response.
+2024-01-30 16:32:14,834DEBUGOCSP cert status: <OCSPCertStatus.GOOD: 0>
+2024-01-30 16:32:14,838DEBUGPeer did not staple an OCSP response
+2024-01-30 16:32:14,840DEBUGPeer did not staple an OCSP response
+2024-01-30 16:32:14,841DEBUGRequesting OCSP data
+2024-01-30 16:32:14,842DEBUGRequesting OCSP data
+2024-01-30 16:32:14,843DEBUGTrying http://r3.o.lencr.org
+2024-01-30 16:32:14,845DEBUGTrying http://r3.o.lencr.org
+2024-01-30 16:32:14,848DEBUGUsing cached OCSP response.
+2024-01-30 16:32:14,849DEBUGUsing cached OCSP response.
+2024-01-30 16:32:14,849DEBUGOCSP cert status: <OCSPCertStatus.GOOD: 0>
+2024-01-30 16:32:14,850DEBUGOCSP cert status: <OCSPCertStatus.GOOD: 0>
+2024-01-30 16:32:20,558DEBUGPeer did not staple an OCSP response
+2024-01-30 16:32:20,559DEBUGRequesting OCSP data
+2024-01-30 16:32:20,559DEBUGTrying http://r3.o.lencr.org
+2024-01-30 16:32:20,559DEBUGUsing cached OCSP response.
+2024-01-30 16:32:20,559DEBUGOCSP cert status: <OCSPCertStatus.GOOD: 0>
+2024-01-30 16:32:20,661INFOCollection is created sussfully
+2024-01-30 16:32:50,422DEBUGpickle loaded: C:\Users\adity\anaconda3\lib\site-packages\pymongo\collection.py
+2024-01-30 16:32:50,808DEBUGpickle loaded: C:\Users\adity\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+2024-01-30 16:32:50,840DEBUGpickle loaded: C:\Users\adity\anaconda3\lib\site-packages\pymongo\__init__.py
+2024-01-30 16:32:50,893DEBUGpickle loaded: C:\Users\adity\anaconda3\lib\site-packages\pymongo\common.py
+2024-01-30 16:33:05,147DEBUGdiff parser start
+2024-01-30 16:33:05,148DEBUGline_lengths old: 1; new: 1
+2024-01-30 16:33:05,149DEBUG-> code[replace] old[1:1] new[1:1]
+2024-01-30 16:33:05,152DEBUGparse_part from 1 to 1 (to 0 in part parser)
+2024-01-30 16:33:05,153DEBUGdiff parser end
+2024-01-30 16:33:06,663DEBUGdiff parser start
+2024-01-30 16:33:06,665DEBUGline_lengths old: 1; new: 1
+2024-01-30 16:33:06,666DEBUG-> code[replace] old[1:1] new[1:1]
+2024-01-30 16:33:06,668DEBUGparse_part from 1 to 1 (to 0 in part parser)
+2024-01-30 16:33:06,669DEBUGdiff parser end
